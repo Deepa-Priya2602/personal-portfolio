@@ -1,5 +1,5 @@
 import { AiFillAppstore } from "react-icons/ai";
-import { FaDatabase, FaCode, FaServer, FaGlobe } from "react-icons/fa";
+import { FaDatabase, FaCode,FaGlobe } from "react-icons/fa";
 import { SiLeetcode, SiSpringboot } from "react-icons/si";
 
 // Features Data
